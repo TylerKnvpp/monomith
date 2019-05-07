@@ -1,50 +1,44 @@
 ---
 templateKey: index-page
-title: Ass
+title: M  O  N  O  M  I  T  H
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Live up to your potential.
+subheading: The journey starts here
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: mon · o · mith
+  description: >-
+    In narratology, a monomyth is defined as the “hero’s journey.” Monomith’s
+    philosophy is that each and every one of us can be the hero of our own
+    story. Whether one has yet to realize that, or they have already started on
+    their journey, Monomyth wants to get everyone on the path, and stay on that
+    path.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We have created a couple of products and services to help you get to the next
+  stage of your journey. From nootropic infused coffee to building your inner
+  five mentors, we have you covered.
 intro:
   blurbs:
     - image: /img/coffee.png
+      text: |
+        A nootropic infused nitrogen cold brew coffee.
+    - image: /img/capsules.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        A more concentrated dose of cognitive coffee. Get your day started with
+        a capsule.
+    - image: /img/group-1.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Whether you have started your journey, or still need to find your path,
+        THE PATH will help you get on your way and stay on your way.
+    - image: /img/group-2.png
+      text: >-
+        1. MAIN ENGINES START ----- a pre-workout mix that won't leave you
+        itchy 
+
+        2. LIFT OFF ---------------- A post workout drink with everything you
+        need
+
+        3. MAIN ENGINES COOL OFF - a bedtime shake that preps you for the next
+        launch
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

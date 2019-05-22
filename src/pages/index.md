@@ -27,8 +27,7 @@ intro:
         a capsule.
     - image: /img/group-1.png
       text: >
-        Whether you have started your journey, or still need to find your path,
-        THE PATH will help you get on your way and stay on your way.
+        THE PATH will help you find your inner five mentors.
     - image: /img/group-2.png
       text: >-
         1. MAIN ENGINES START ----- a pre-workout mix that won't leave you

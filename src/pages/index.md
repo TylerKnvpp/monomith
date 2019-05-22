@@ -10,12 +10,12 @@ mainpitch:
     In narratology, a monomyth is defined as the “hero’s journey.” Monomith’s
     philosophy is that each and every one of us can be the hero of our own
     story. Whether one has yet to realize that, or they have already started on
-    their journey, Monomyth wants to get everyone on the path, and stay on that
+    their journey, Monomith wants to get everyone on the path and stay on the
     path.
 description: >-
   We have created a couple of products and services to help you get to the next
-  stage of your journey. From nootropic infused coffee to building your inner
-  five mentors, we have you covered.
+  stage of your journey. From nootropic infused coffee to building your tribe of
+  mentors, we have you covered.
 intro:
   blurbs:
     - image: /img/coffee.png
